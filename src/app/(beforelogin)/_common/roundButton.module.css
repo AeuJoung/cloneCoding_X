@@ -1,0 +1,13 @@
+.default {
+    font-size: 15px;
+    font-weight: bold;
+    color : black;
+    border-radius: 20px;
+    background-color: white;
+    border : 1px solid #dadce0 ;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
