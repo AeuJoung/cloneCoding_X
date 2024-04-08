@@ -30,5 +30,5 @@ export default function RoundButton({props} : {props : PropType}) {
             {props.iconImgName && <Image src={logoSVG ? logoSVG : ""} alt="home" width={18} height={18} style={{marginRight : '8px'}} /> }
             <a href={props.linkText}>{props.innerText}</a>
         </div>
-    );  
+    );    
 }   
