@@ -31,4 +31,4 @@ export default function RoundButton({props} : {props : PropType}) {
             <a href={props.linkText}>{props.innerText}</a>
         </div>
     );    
-}   
+}      
